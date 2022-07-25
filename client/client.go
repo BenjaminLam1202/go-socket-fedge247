@@ -4,13 +4,14 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/donaldtrieuit/go-socket/server"
-	"github.com/gorilla/websocket"
 	"log"
 	"net/http"
 	"net/url"
 	"sync"
 	"time"
+
+	"github.com/BenjaminLam1202/go-socket/server"
+	"github.com/gorilla/websocket"
 )
 
 const MaxMessageQueueSize = 1000
