@@ -1,4 +1,4 @@
-module github.com/BenjaminLam1202/go-socket
+module github.com/BenjaminLam1202/go-socket-fedge247
 
 go 1.17
 

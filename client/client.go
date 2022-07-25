@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/BenjaminLam1202/go-socket/server"
+	"github.com/BenjaminLam1202/go-socket-fedge247/server"
 	"github.com/gorilla/websocket"
 )
 
